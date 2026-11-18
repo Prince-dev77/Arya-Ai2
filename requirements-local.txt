@@ -1,0 +1,3 @@
+# Only for running fully offline on your own computer (no Groq key, no Ollama):
+transformers>=4.44
+torch
